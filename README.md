@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aryalireza
 - 👀 I’m interested in Devops & SRE
-- 🌱 I’m currently learning Python
 - 📫 You can reach me in Telegram messenger : @aryalireza
 
 <!---
